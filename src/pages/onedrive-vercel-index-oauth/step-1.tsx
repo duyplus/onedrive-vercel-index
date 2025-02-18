@@ -24,7 +24,7 @@ export default function OAuthStep1() {
       <main className="flex w-full flex-1 flex-col bg-gray-50 dark:bg-gray-800">
         <Navbar />
 
-        <div className="mx-auto w-full max-w-5xl p-4">
+        <div className="mx-auto w-full max-w-6xl p-4">
           <div className="rounded bg-white p-3 dark:bg-gray-900 dark:text-gray-100">
             <div className="mx-auto w-52">
               <Image src="/images/fabulous-fireworks.png" width={912} height={912} alt="fabulous fireworks" priority />
