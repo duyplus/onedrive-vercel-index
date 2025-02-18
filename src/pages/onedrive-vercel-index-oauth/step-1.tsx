@@ -44,7 +44,7 @@ export default function OAuthStep1() {
                 </a>
                 . Docs:{' '}
                 <a
-                  href="https://docs.upstash.com/redis/howto/vercelintegration"
+                  href="https://upstash.com/docs/redis/howto/vercelintegration"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="underline"
